@@ -1,0 +1,32 @@
+/* Signup.module.css */
+.roundedT5 {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+  
+  @media (min-width: 992px) {
+    .roundedTrLg0 {
+      border-top-right-radius: 0;
+    }
+  
+    .roundedBlLg5 {
+      border-bottom-left-radius: 0.5rem;
+    }
+  }
+  
+  .card {
+    margin-bottom: 1rem;
+  }
+  
+  .formOutline {
+    margin-bottom: 1rem;
+  }
+  
+  .formCheckInput {
+    margin-right: 0.25rem;
+  }
+  
+  .btnPrimary {
+    margin-bottom: 1rem;
+  }
+  
